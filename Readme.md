@@ -1,1 +1,1 @@
-'Привет бебра' 
+'Hello, Hexlet! How are you?' 
